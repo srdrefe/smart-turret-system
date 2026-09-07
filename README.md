@@ -34,7 +34,7 @@ Bu proje, kameradan gördüğü hedefi otonom olarak takip eden ve hedefin belir
 ---
 ## 📸 Proje Görselleri
 
-| Sistem / Devre | Hedef Takip Arayüzü | Taret Mekanizması |
+| Maket | Taret Mekanizması | Karakol Kullanımı |
 | :---: | :---: | :---: |
 | ![Maket](Resim1.jpg) | ![Taret](Resim2.jpg) | ![Karakol kullanımı](Resim3.jpg) |
 
