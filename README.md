@@ -36,7 +36,7 @@ Bu proje, kameradan gördüğü hedefi otonom olarak takip eden ve hedefin belir
 
 | Sistem / Devre | Hedef Takip Arayüzü | Taret Mekanizması |
 | :---: | :---: | :---: |
-| ![Sistem](Resim1.jpg) | ![Arayüz](Resim2.jpg) | ![Taret](Resim3.jpg) |
+| ![Maket](Resim1.jpg) | ![Taret](Resim2.jpg) | ![Karakol kullanımı](Resim3.jpg) |
 
 ---
 **Geliştirici:** Serdar Efe Şentürk  
