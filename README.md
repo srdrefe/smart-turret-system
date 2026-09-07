@@ -32,5 +32,12 @@ Bu proje, kameradan gördüğü hedefi otonom olarak takip eden ve hedefin belir
 3. **Fiziksel Tepki:** Arduino motorları o yöne çevirir. Mesafe sensörü 30 cm altında bir yakınlaşma tespit ederse sistemi savunma moduna sokar. Hedef kaybolursa sistem kendi kendine devriyeye çıkar.
 
 ---
+## 📸 Proje Görselleri
+
+| Sistem / Devre | Hedef Takip Arayüzü | Taret Mekanizması |
+| :---: | :---: | :---: |
+| ![Sistem](Resim1.jpg) | ![Arayüz](Resim2.jpg) | ![Taret](Resim3.jpg) |
+
+---
 **Geliştirici:** Serdar Efe Şentürk  
 **Eğitim:** Bilgisayar Teknolojisi
